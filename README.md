@@ -5,7 +5,7 @@ Editor: Eclipse
 Language: Java
 Browser: Chrome & Firefox
 
-# Prequisite:
+# Prerequisite:
 1. Listed browsers are present
 2. User should have working Internet Connection
 
